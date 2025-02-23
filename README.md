@@ -1,3 +1,4 @@
+![MasterHead](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?t=st=1740324949~exp=1740328549~hmac=5566c81c7588ba94a88bd821f03ba6ded523e2906b76c7b32d9b084fc8108a37&w=1380)
 <h1 align="center">Hi 👋, I'm Yassine Zerouali</h1>
 <h3 align="center">🌟 Building Seamless Web Experiences with React & Modern Front-End Tech 🌟</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e477ptyuodihxpomxra8dos8o9a3znghdqv22fc9yqq&ep=v1_gifs_related&rid=giphy.gif&ct=g">
