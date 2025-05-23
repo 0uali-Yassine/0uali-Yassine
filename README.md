@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/0uali-Yassine](https://github.com/0uali-Yassine)
+- 👨‍💻 All of my projects are available at [https://github.com/0uali-Yassine](https://portfolio-v1-git-master-yassines-projects-cb67d5c9.vercel.app/)
 
 - 💬 Ask me about **React, Responsive Design, JavaScript Tricks & Building User-Centric Apps! 🛠️**
 
